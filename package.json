@@ -1,0 +1,30 @@
+{
+  "name": "coding_challenges",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^8.9.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michicko/coding_challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michicko/coding_challenges/issues"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.6",
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  },
+  "homepage": "https://github.com/Michicko/coding_challenges#readme",
+  "description": ""
+}
